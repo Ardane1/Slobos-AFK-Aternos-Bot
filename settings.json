@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SPEDs-SMP.aternos.me",
+    "ip": "SPEDs-SMP.aternos.me:58260",
     "port": 58260,
     "version": "26.1.2",
     "try-creative": false
